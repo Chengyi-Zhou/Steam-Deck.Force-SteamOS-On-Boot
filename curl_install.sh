@@ -1,7 +1,7 @@
 #!/bin/bash
 #Steam Deck Force-SteamOS-On-Boot by scawp
-#License: DBAD: https://github.com/scawp/Steam-Deck.Force-SteamOS-On-Boot/blob/main/LICENSE.md
-#Source: https://github.com/scawp/Steam-Deck.Force-SteamOS-On-Boot
+#License: DBAD: https://github.com/Chengyi-Zhou/Steam-Deck.Force-SteamOS-On-Boot/blob/main/LICENSE.md
+#Source: https://github.com/Chengyi-Zhou/Steam-Deck.Force-SteamOS-On-Boot
 # Use at own Risk!
 
 #curl -sSL https://raw.githubusercontent.com/scawp/Steam-Deck.Force-SteamOS-On-Boot/main/curl_install.sh | bash
@@ -11,7 +11,7 @@ set -e
 
 repo_url="https://raw.githubusercontent.com/Chengyi-Zhou/Steam-Deck.Force-SteamOS-On-Boot/main"
 
-tmp_dir="/tmp/scawp.SDFSOB.install"
+tmp_dir="/tmp/Chengyi-Zhou.SDFSOB.install"
 
 service_install_dir="/etc/systemd/system"
 
