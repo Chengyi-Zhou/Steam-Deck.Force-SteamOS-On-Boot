@@ -9,7 +9,7 @@
 #stop running script if anything returns an error (non-zero exit )
 set -e
 
-repo_url="https://raw.githubusercontent.com/scawp/Steam-Deck.Force-SteamOS-On-Boot/main"
+repo_url="https://raw.githubusercontent.com/Chengyi-Zhou/Steam-Deck.Force-SteamOS-On-Boot/main"
 
 tmp_dir="/tmp/scawp.SDFSOB.install"
 
